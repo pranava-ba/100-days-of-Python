@@ -1,7 +1,10 @@
 # 100 Days of Python
 
-## Topics covered
-1. Hello World
-2. Install binomcikit
-3. Beautiful Soup
-4. Leetcode #2161
+## Topics Covered
+
+| S. No | Topic           | Date       |
+|-------|---------------|------------|
+| 1     | Hello World   |            |
+| 2     | Install binomcikit |       |
+| 3     | Beautiful Soup |           |
+| 4     | Leetcode #2161 |           |
